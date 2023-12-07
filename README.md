@@ -17,6 +17,8 @@
 
 ## Execution Script
 - linear_regression_my_algorithm.py
-    - saf
+    - 선형회귀 자체 제작 모델
 - linear_regression_scikitlearn.py
+    - 선형회귀 scikit-learn 모델
 - linear_regression_compare.py
+    - 선형회귀 자체 제작 모델 / scikit-learn 모델 비교
